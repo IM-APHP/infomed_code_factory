@@ -5,9 +5,9 @@ L'AP-HP, la société Iqvia et l'école polytechnique ont mis en place une colla
 
 <table>
     <tr>
-        <td>![alt text](https://github.com/IM-APHP/infomed_code_factory/blob/master/images/aphp.jpg) </td>
-        <td>![alt text](/images/iqvia.jpg)</td>
-        <td>![alt text](/images/x.png)</td>
+        <td>![alt text](/images/aphp.jpg?raw=true) </td>
+        <td>![alt text](/images/iqvia.jpg?raw=true)</td>
+        <td>![alt text](/images/x.png?raw=true)</td>
     </tr>
 
 </table>
