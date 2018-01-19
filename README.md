@@ -5,14 +5,14 @@ L'AP-HP, la société Iqvia et l'école polytechnique ont mis en place une colla
 
 <table>
     <tr>
-        <td>![iqvia logo]</td>
-        <td>![aphp logo] </td>
-        <td>![x logo]</td>
+        <td>![alt text](./images/aphp.jpg) </td>
+        <td>![alt text](./images/iqvia.jpg)</td>
+        <td>![alt text](./images/x.png)</td>
     </tr>
 
 </table>
 
 
-[iqvia logo]:./images/iqvia.jpg
-[aphp logo]:./images/aphp.jpg
-[x logo]:./images/x.png
+[iqvia logo]:
+[aphp logo]:./images/
+[x logo]:./images/
